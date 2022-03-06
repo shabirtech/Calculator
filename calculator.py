@@ -14,6 +14,8 @@ DEFAULT_FLNT_STYLE=("Arial",20)
 LIGHT_BLUE="#CCEDFF"
 OFF_WhITE="#F8FAFF"
 LABEL_COLOR="#25265E"
+
+
 class Calculator:
     def __init__(self):
         self.window = tk.Tk()
